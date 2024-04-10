@@ -4,22 +4,13 @@
       <a href="https://linkedin.com/in/anasaly">LinkedIn</a> •
       <a href="https://github.com/AnasGamal">GitHub</a>
     </p>
-      <h3 align="center">🎓 About Me</h3>
+    
+### 🎓 About Me
+- 📚 Sophomore studying Computer Science at Stetson University
+- 💻 Full Stack Developer
 
-<div style="display: flex; justify-content: space-around;">
-  <div>
 
-
-<ul>
-  <li>📚 Sophomore studying Computer Science at Stetson University</li>
-      <li>💻 Full Stack Developer</li>
-    </ul>
-  </div>
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasGamal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  </div>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasGamal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### 🛠️ Skills & Tools
 - **Languages:** JavaScript, TypeScript, Python, HTML, CSS, Java, C++
