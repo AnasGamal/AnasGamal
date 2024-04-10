@@ -1,9 +1,3 @@
-<h1 align="center">Hi there, I'm Anas Aly 👋</h1>
-
-<p align="center">
-  <a href="https://linkedin.com/in/anasaly">LinkedIn</a> •
-  <a href="https://github.com/AnasGamal">GitHub</a>
-</p>
 
 <h1 align="center">Hi there, I'm Anas Aly 👋</h1>
     <p align="center">
