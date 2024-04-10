@@ -10,8 +10,8 @@
   <div>
 
 
-    <ul>
-      <li>📚 Sophomore studying Computer Science at Stetson University</li>
+<ul>
+  <li>📚 Sophomore studying Computer Science at Stetson University</li>
       <li>💻 Full Stack Developer</li>
     </ul>
   </div>
