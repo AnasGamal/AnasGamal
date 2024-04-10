@@ -18,3 +18,6 @@
 - Full Stack (University of Helsinki, 7 ECTS)
 - Front-end Web Development (Udacity)
 - In Progress: Android Development (CodePath)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasGamal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-profile-trophy.vercel.app/?username=AnasGamal&theme=juicyfresh&no-bg=true" />
