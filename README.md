@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Anas Aly 👋</h1>
 
-<!--
-**AnasGamal/AnasGamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/anasaly">LinkedIn</a> •
+  <a href="https://github.com/AnasGamal">GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+### 🎓 About Me
+- 📚 Sophomore studying Computer Science at Stetson University
+- 💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS, Java, C++
+- **Frameworks:** React.js, Next.js, Node.js, Flask
+- **Tools:** Jest, Git, MongoDB
+
+### 🏆 Certifications
+- Full Stack (University of Helsinki, 7 ECTS)
+- Front-end Web Development (Udacity)
+- In Progress: Android Development (CodePath)
