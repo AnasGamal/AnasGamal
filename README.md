@@ -6,7 +6,7 @@
     </p>
     
 ### 🎓 About Me
-- 📚 Sophomore studying Computer Science at Stetson University
+- 📚 Junior studying Computer Science at Stetson University
 - 💻 Full Stack Developer
 
 
