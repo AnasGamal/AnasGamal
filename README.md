@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Anas Aly | Full Stack Developer</h1>
+  <h1>Anas Aly</h1>
   <p>Exploring algorithms and building intelligent solutions 🧠</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasaly)
