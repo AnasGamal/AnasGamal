@@ -1,25 +1,39 @@
+<div align="center">
+  <h1>Anas Aly | Full Stack Developer</h1>
+  <p>Exploring algorithms and building intelligent solutions 🧠</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasaly)
+  [![Website](https://img.shields.io/badge/Portfolio-3e4248?style=for-the-badge&logo=safari&logoColor=white)](https://anasgamal.github.io/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnasGamal)
+</div>
 
-<h1 align="center">Hi there, I'm Anas Aly 👋</h1>
-    <p align="center">
-      <a href="https://linkedin.com/in/anasaly">LinkedIn</a> •
-      <a href="https://github.com/AnasGamal">GitHub</a>
-    </p>
-    
-### 🎓 About Me
-- 📚 Junior studying Computer Science at Stetson University
-- 💻 Full Stack Developer
+## About Me
 
+Undergraduate researcher and full-stack developer passionate about algorithmic analysis, large language models, and building scalable applications. Currently pursuing Computer Science at Stetson University with a focus on AI/ML and software engineering.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasGamal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+- 🔭 Researching algorithm optimization and LLM applications
+- 👯 Open to research collaborations in algorithm analysis and NLP
+- 💬 Let's discuss: Algorithmic Complexity, LLMs, or Web Development
 
-### 🛠️ Skills & Tools
-- **Languages:** JavaScript, TypeScript, Python, HTML, CSS, Java, C++
-- **Frameworks:** React.js, Next.js, Node.js, Flask
-- **Tools:** Jest, Git, MongoDB
+## Technical Expertise
 
-### 🏆 Certifications
-- Full Stack (University of Helsinki, 7 ECTS)
-- Front-end Web Development (Udacity)
-- In Progress: Android Development (CodePath)
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnasGamal&theme=juicyfresh&no-bg=true" />
+```typescript
+const techStack = {
+  languages: ['TypeScript', 'JavaScript', 'Python', 'Java', 'C++'],
+  frontend: {
+    frameworks: ['React.js', 'Next.js'],
+    styling: ['TailwindCSS', 'CSS3'],
+    testing: ['Jest', 'React Testing Library']
+  },
+  backend: {
+    runtime: 'Node.js',
+    frameworks: ['Express.js', 'Flask'],
+    databases: ['MongoDB', 'PostgreSQL']
+  },
+  research_interests: {
+    algorithms: ['Analysis', 'Optimization'],
+    ai_ml: ['Large Language Models', 'Natural Language Processing']
+  },
+  tools: ['Git', 'Docker', 'Linux'],
+  current_focus: 'Neural Networks & Algorithm Research'
+}
