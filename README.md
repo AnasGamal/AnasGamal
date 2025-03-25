@@ -11,9 +11,9 @@
 
 Undergraduate researcher and full-stack developer passionate about algorithmic analysis, large language models, and building scalable applications. Currently pursuing Computer Science at Stetson University with a focus on AI/ML and software engineering.
 
-- 🔭 Researching algorithm optimization and LLM applications
-- 👯 Open to research collaborations in algorithm analysis and NLP
-- 💬 Let's discuss: Algorithmic Complexity, LLMs, or Web Development
+- 🔭 Researching algorithm optimization and efficient AI
+- 👯 Open to research collaborations in algorithm analysis and efficient AI
+- 💬 Let's discuss: Algorithms, AI, or Web Development
 
 ## Technical Expertise
 
