@@ -8,9 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Undergraduate researcher at Stetson University working on Algorithms and Efficient AI
-
--   🤝 Open to research collaborations
+Undergraduate researcher at Stetson University working on vLLMs in transporation, Algorithms, SNNs for Epilepsy Prediction
 
 ## 🛠️ Tech Stack
 
