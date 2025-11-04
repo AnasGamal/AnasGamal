@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Undergraduate researcher at Stetson University working on vLLMs in transporation, Algorithms, SNNs for Epilepsy Prediction
+Undergraduate researcher at Stetson University working on Computer Vision for transporation safety, Ethical AI and Neuromorphic Computing for Epilepsy Prediction
 
 ## 🛠️ Tech Stack
 
